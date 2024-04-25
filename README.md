@@ -27,7 +27,7 @@
 ![MySQL-Workbench](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=008B8B)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=for-the-badge&labelColor=0D1117&logo=xampp&logoColor=white)&nbsp;
-![Miro](https://img.shields.io/badge/-Miro-005A8D?style=for-the-badge&labelColor=null&logo=miro&logoColor=white)&nbsp;
+![Miro](https://img.shields.io/badge/-Miro-null?style=for-the-badge&labelColor=FFDD33&logo=miro&logoColor=white)&nbsp;
 
 
 ### Meu conhecimento:

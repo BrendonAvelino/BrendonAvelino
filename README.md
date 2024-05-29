@@ -27,6 +27,7 @@
 ![Android-Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=00BFFF)&nbsp;
 ![MySQL-Workbench](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=008B8B)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
 ![XAMPP](https://img.shields.io/badge/-XAMPP-0D1117?style=for-the-badge&labelColor=F37623&logo=xampp&logoColor=white)&nbsp;
 ![Miro](https://img.shields.io/badge/-Miro-0D1117?style=for-the-badge&labelColor=FFDD33&logo=miro&logoColor=white)&nbsp;
 

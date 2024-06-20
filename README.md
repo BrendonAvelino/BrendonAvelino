@@ -31,6 +31,8 @@
 ![XAMPP](https://img.shields.io/badge/-XAMPP-0D1117?style=for-the-badge&labelColor=F37623&logo=xampp&logoColor=white)&nbsp;
 ![Miro](https://img.shields.io/badge/-Miro-0D1117?style=for-the-badge&labelColor=FFDD33&logo=miro&logoColor=white)&nbsp;
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-0D1117?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF&labelColor=0D1117)
+![App Inventor](https://img.shields.io/badge/-App%20Inventor-0D1117?style=for-the-badge&logo=appinventor&logoColor=FFFFFF&labelColor=0D1117)
+
 
 ### Meu conhecimento:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;

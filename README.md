@@ -55,7 +55,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React - Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&labelColor=68217A&logoColor=white&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C%23-68217A?style=for-the-badge&logo=c-sharp&labelColor=68217A&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&labelColor=00599C&logoColor=white&logo=c%2B%2B)&nbsp;
 
 

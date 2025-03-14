@@ -57,6 +57,7 @@
 ![React - Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-68217A?style=for-the-badge&logo=c-sharp&labelColor=68217A&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&labelColor=00599C&logoColor=white&logo=c%2B%2B)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 

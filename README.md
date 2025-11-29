@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD9D13&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F303A&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Brendon+Harrisson+Avelino;Eu+sou+de+São+Paulo,+SP;Técnico+em+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 

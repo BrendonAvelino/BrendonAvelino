@@ -24,7 +24,6 @@
 ![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=FFFFFF)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC)&nbsp;
 ![Android-Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=00BFFF)&nbsp;
-![MySQL-Workbench](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=008B8B)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
 ![Miro](https://img.shields.io/badge/-Miro-0D1117?style=for-the-badge&labelColor=FFDD33&logo=miro&logoColor=white)&nbsp;
@@ -34,7 +33,6 @@
 ### Meu conhecimento:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React - Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -45,19 +43,7 @@
 
 
 
-### Estou estudando neste momento:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-68217A?style=for-the-badge&logo=c-sharp&labelColor=68217A&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&labelColor=00599C&logoColor=white&logo=c%2B%2B)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-
-
-<div align="center">
-<br><p align="centre"><b>Contagem de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/BrendonAvelino}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D7DBDD&height=120&section=footer"/>

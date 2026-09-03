@@ -1,21 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=140&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F303A&height=140&section=header"/>
 
 <div align="center">
 
-# 👋 Olá! Eu sou o Brendon Harrisson Avelino
+# 👋 Olá, eu sou o Brendon Harrisson
 
 ### Técnico em Análise e Desenvolvimento de Sistemas
 
-**Desenvolvimento • Tecnologia • Cybersecurity**
+**Desenvolvedor em formação | Tecnologia & Cybersecurity**
 
-<br>
-
-<a href="https://www.linkedin.com/in/brendon-harrisson-avelino-50969b2a4/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://www.instagram.com/brendonharrisson/">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/brendonharrisson/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brendon-harrisson-avelino-50969b2a4/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
 
 </div>
 
@@ -23,82 +18,122 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou Técnico em **Análise e Desenvolvimento de Sistemas**, com experiência acadêmica e prática em desenvolvimento de software.
+Sou **Técnico em Análise e Desenvolvimento de Sistemas**, com experiência acadêmica e prática em desenvolvimento de software.
 
-Depois de um período afastado dos estudos, estou retomando minha jornada na programação e direcionando cada vez mais meu interesse para **Cybersecurity**.
+Tenho interesse especial por **Cybersecurity, desenvolvimento de aplicações e infraestrutura**, buscando constantemente evoluir minhas habilidades e construir projetos que me permitam transformar conhecimento em experiência prática.
 
-Atualmente, estou revisando fundamentos de programação e tecnologia enquanto exploro diferentes áreas da segurança da informação.
+Atualmente, estou direcionando meus estudos para **Segurança da Informação**, com foco em construir uma base sólida em tecnologia, redes, sistemas e segurança.
 
-> Meu objetivo é construir uma base sólida em tecnologia e transformar conhecimento em projetos práticos.
+> 🎯 **Objetivo:** crescer profissionalmente na área de tecnologia e construir uma carreira sólida em Cybersecurity.
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Linguagens & Desenvolvimento
+### 💻 Desenvolvimento
 
-<p align="left">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,cpp,cs,git"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 
-</p>
+</div>
 
-### Ferramentas & Plataformas
+### 🔧 Ferramentas & Plataformas
 
-<p align="left">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,canva,notion,androidstudio,vercel,expo"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
 
-</p>
+</div>
 
 ---
 
-## 🔐 Atualmente estudando
+## 🔐 Em foco: Cybersecurity
+
+Atualmente estou aprofundando meus conhecimentos em **Segurança da Informação**.
+
+Áreas que pretendo explorar e desenvolver:
+
+* 🌐 Redes e protocolos
+* 🐧 Linux
+* 🔒 Segurança de sistemas
+* 🛡️ Segurança de aplicações
+* 🕵️ Análise de vulnerabilidades
+* 🧪 Pentest e Ethical Hacking
+* ☁️ Cloud Security
+* 📊 Monitoramento e análise de incidentes
+
+---
+
+## 📚 Atualmente estudando
 
 ```text
-Programação
-    ↓
-Fundamentos de TI
-    ↓
-Linux • Redes • HTTP • APIs • SQL
-    ↓
 Cybersecurity
+     │
+     ├── Redes
+     ├── Linux
+     ├── Segurança de Sistemas
+     ├── Segurança de Aplicações
+     └── Ethical Hacking
 ```
 
-Tenho interesse em explorar áreas como:
-
-* Web & API Security
-* Application Security
-* Pentest / Red Team
-* Blue Team / SOC
-* Linux & System Security
-* Automação com Python
-* Segurança de aplicações
+Meu objetivo é aprender através de **projetos práticos, laboratórios e desafios**, transformando teoria em experiência real.
 
 ---
 
 ## 🚀 Projetos
 
-Alguns dos projetos que desenvolvi durante minha jornada:
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado.
 
-| Projeto             | Tecnologias                      | Descrição                                          |
-| ------------------- | -------------------------------- | -------------------------------------------------- |
-| **SmartKitchen**    | React Native • Expo • TypeScript | Aplicação mobile desenvolvida com React Native     |
-| **Noticias Node**   | Node.js • Express • EJS          | Aplicação web utilizando Node.js e consumo de APIs |
-| **Portfolio**       | JavaScript • React               | Meu portfólio pessoal                              |
-| **Outros projetos** | C++ • C# • JavaScript            | Projetos desenvolvidos durante minha formação      |
+| Projeto       | Tecnologias          | Descrição                |
+| ------------- | -------------------- | ------------------------ |
+| 🔹 Projeto 01 | JavaScript / Node.js | Aplicação web            |
+| 🔹 Projeto 02 | React Native         | Aplicativo mobile        |
+| 🔹 Projeto 03 | C# / C++             | Projeto de estudos       |
+| 🔹 Projeto 04 | Cybersecurity        | Laboratório de segurança |
 
-> Estou atualmente revisando e atualizando meus projetos para refletir melhor minhas habilidades atuais.
+> 🚧 Esta seção será atualizada conforme novos projetos forem desenvolvidos.
 
 ---
 
-## 📊 GitHub
+## 📈 Minha jornada
+
+```text
+Análise e Desenvolvimento de Sistemas
+                ↓
+        Desenvolvimento
+                ↓
+       Sistemas & Redes
+                ↓
+          Cybersecurity
+                ↓
+      Segurança da Informação
+```
+
+Estou construindo minha carreira passo a passo, buscando evoluir tanto na parte técnica quanto na capacidade de resolver problemas reais.
+
+---
+
+## 📫 Entre em contato
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendonAvelino&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brendon-harrisson-avelino-50969b2a4/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonAvelino&layout=compact&theme=github_dark"/>
+[![Instagram](https://img.shields.io/badge/Instagram-@brendonharrisson-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/brendonharrisson/)
 
 </div>
 
@@ -106,8 +141,8 @@ Alguns dos projetos que desenvolvi durante minha jornada:
 
 <div align="center">
 
-### Sempre aprendendo. Sempre construindo.
+### 💻 Sempre aprendendo. Sempre construindo.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F303A&height=120&section=footer"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>

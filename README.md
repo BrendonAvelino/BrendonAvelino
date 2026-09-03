@@ -24,19 +24,19 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Técnico em Análise e Desenvolvimento de Sistemas**, com conhecimentos em desenvolvimento de software e tecnologia.
+Sou **Técnico em Análise e Desenvolvimento de Sistemas**, com formação voltada ao desenvolvimento de software e fundamentos de tecnologia.
 
-Tenho interesse em **Cybersecurity, Segurança da Informação, desenvolvimento de aplicações e infraestrutura**.
+Possuo conhecimentos em **desenvolvimento web, aplicações mobile, programação e controle de versão**, e atualmente estou ampliando minha formação com foco em **Cybersecurity e Segurança da Informação**.
 
-Atualmente, estou direcionando meus estudos para **Cybersecurity**, buscando fortalecer minha base em redes, sistemas, programação e segurança.
+Tenho interesse em compreender como sistemas e aplicações funcionam, identificar vulnerabilidades e desenvolver soluções com foco em **segurança, confiabilidade e boas práticas**.
 
-🎯 **Objetivo:** construir uma carreira sólida na área de Cybersecurity e Segurança da Informação.
+🎯 **Objetivo profissional:** desenvolver minha carreira na área de **Cybersecurity**, construindo experiência prática e aprofundando meus conhecimentos em Segurança da Informação.
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Desenvolvimento
+### 💻 Desenvolvimento
 
 <div align="left">
 
@@ -47,11 +47,11 @@ Atualmente, estou direcionando meus estudos para **Cybersecurity**, buscando for
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 
 </div>
 
-### Ferramentas & Plataformas
+### 🔧 Ferramentas & Plataformas
 
 <div align="left">
 
@@ -69,15 +69,17 @@ Atualmente, estou direcionando meus estudos para **Cybersecurity**, buscando for
 
 ## 🔐 Cybersecurity
 
-Tenho direcionado meus estudos para **Segurança da Informação**, com interesse nas seguintes áreas:
+Atualmente, estou direcionando meus estudos para **Cybersecurity e Segurança da Informação**, buscando desenvolver uma base técnica consistente nas principais áreas da segurança.
+
+**Áreas de interesse:**
 
 * 🌐 Redes e protocolos
-* 🐧 Linux
-* 🔒 Segurança de sistemas
-* 🛡️ Segurança de aplicações
+* 🐧 Linux e administração de sistemas
+* 🔒 Segurança de sistemas e aplicações
 * 🕵️ Análise de vulnerabilidades
 * 🧪 Pentest e Ethical Hacking
-* ☁️ Cloud Security
+* ☁️ Segurança em ambientes Cloud
+* 📊 Monitoramento e resposta a incidentes
 
 ---
 

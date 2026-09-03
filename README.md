@@ -1,36 +1,42 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F303A&height=140&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F303A&height=120&section=header"/>
 
 <div align="center">
 
-# 👋 Olá, eu sou o Brendon Harrisson
+# Olá, eu sou Brendon Harrisson 👋
 
 ### Técnico em Análise e Desenvolvimento de Sistemas
 
-**Desenvolvedor em formação | Tecnologia & Cybersecurity**
+**Tecnologia • Desenvolvimento • Cybersecurity**
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/brendonharrisson/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brendon-harrisson-avelino-50969b2a4/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+<br>
+
+<a href="https://www.instagram.com/brendonharrisson/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/brendon-harrisson-avelino-50969b2a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou **Técnico em Análise e Desenvolvimento de Sistemas**, com experiência acadêmica e prática em desenvolvimento de software.
+Sou **Técnico em Análise e Desenvolvimento de Sistemas**, com conhecimentos em desenvolvimento de software e tecnologia.
 
-Tenho interesse especial por **Cybersecurity, desenvolvimento de aplicações e infraestrutura**, buscando constantemente evoluir minhas habilidades e construir projetos que me permitam transformar conhecimento em experiência prática.
+Tenho interesse em **Cybersecurity, Segurança da Informação, desenvolvimento de aplicações e infraestrutura**.
 
-Atualmente, estou direcionando meus estudos para **Segurança da Informação**, com foco em construir uma base sólida em tecnologia, redes, sistemas e segurança.
+Atualmente, estou direcionando meus estudos para **Cybersecurity**, buscando fortalecer minha base em redes, sistemas, programação e segurança.
 
-> 🎯 **Objetivo:** crescer profissionalmente na área de tecnologia e construir uma carreira sólida em Cybersecurity.
+🎯 **Objetivo:** construir uma carreira sólida na área de Cybersecurity e Segurança da Informação.
 
 ---
 
 ## 🛠️ Tecnologias
 
-### 💻 Desenvolvimento
+### Desenvolvimento
 
 <div align="left">
 
@@ -45,7 +51,7 @@ Atualmente, estou direcionando meus estudos para **Segurança da Informação**,
 
 </div>
 
-### 🔧 Ferramentas & Plataformas
+### Ferramentas & Plataformas
 
 <div align="left">
 
@@ -61,11 +67,9 @@ Atualmente, estou direcionando meus estudos para **Segurança da Informação**,
 
 ---
 
-## 🔐 Em foco: Cybersecurity
+## 🔐 Cybersecurity
 
-Atualmente estou aprofundando meus conhecimentos em **Segurança da Informação**.
-
-Áreas que pretendo explorar e desenvolver:
+Tenho direcionado meus estudos para **Segurança da Informação**, com interesse nas seguintes áreas:
 
 * 🌐 Redes e protocolos
 * 🐧 Linux
@@ -74,75 +78,11 @@ Atualmente estou aprofundando meus conhecimentos em **Segurança da Informação
 * 🕵️ Análise de vulnerabilidades
 * 🧪 Pentest e Ethical Hacking
 * ☁️ Cloud Security
-* 📊 Monitoramento e análise de incidentes
-
----
-
-## 📚 Atualmente estudando
-
-```text
-Cybersecurity
-     │
-     ├── Redes
-     ├── Linux
-     ├── Segurança de Sistemas
-     ├── Segurança de Aplicações
-     └── Ethical Hacking
-```
-
-Meu objetivo é aprender através de **projetos práticos, laboratórios e desafios**, transformando teoria em experiência real.
-
----
-
-## 🚀 Projetos
-
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado.
-
-| Projeto       | Tecnologias          | Descrição                |
-| ------------- | -------------------- | ------------------------ |
-| 🔹 Projeto 01 | JavaScript / Node.js | Aplicação web            |
-| 🔹 Projeto 02 | React Native         | Aplicativo mobile        |
-| 🔹 Projeto 03 | C# / C++             | Projeto de estudos       |
-| 🔹 Projeto 04 | Cybersecurity        | Laboratório de segurança |
-
-> 🚧 Esta seção será atualizada conforme novos projetos forem desenvolvidos.
-
----
-
-## 📈 Minha jornada
-
-```text
-Análise e Desenvolvimento de Sistemas
-                ↓
-        Desenvolvimento
-                ↓
-       Sistemas & Redes
-                ↓
-          Cybersecurity
-                ↓
-      Segurança da Informação
-```
-
-Estou construindo minha carreira passo a passo, buscando evoluir tanto na parte técnica quanto na capacidade de resolver problemas reais.
-
----
-
-## 📫 Entre em contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brendon-harrisson-avelino-50969b2a4/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-@brendonharrisson-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/brendonharrisson/)
-
-</div>
 
 ---
 
 <div align="center">
 
-### 💻 Sempre aprendendo. Sempre construindo.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F303A&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F303A&height=100&section=footer"/>
 
 </div>
